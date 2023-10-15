@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # restaurant
 Proyecto segundo corte microservicios para ARQ SW
 
@@ -7,3 +8,7 @@ Proyecto segundo corte microservicios para ARQ SW
 # Si quieres instala SQLite browser para ver la base de datos en vivo. 
 # Descarga Docker Desktop
 # En la carpeta del proyecto, utiliza el comando docker compose up para correr los contenedores.
+=======
+# Restaurante_Micro
+Proyecto  segundo corte Arquitectura de Software 
+>>>>>>> 0f6a1c6ef29e800c5a894248de31f0722025f9f0
